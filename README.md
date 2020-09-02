@@ -1,4 +1,7 @@
 ### Hi there 👋
+I currently study Mathematics and am interested in differential equations, statistical analysis and data science.
+![Me](/images/ARod.png)
+
 
 <!--
 **adrirps/adrirps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
