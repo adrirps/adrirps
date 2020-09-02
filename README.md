@@ -1,6 +1,6 @@
 ### Hi there 👋
 I currently study Mathematics and am interested in differential equations, statistical analysis and data science.
-![asd](/images/pic.png)
+![asd](https://github.com/adrirps/adrirps/tree/master/images/pic.png)
 
 
 <!--
